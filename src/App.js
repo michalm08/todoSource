@@ -36,7 +36,7 @@ function App(){
         <h1>TODO List </h1>
         
         
-        <input id="mojInput"/>
+        <input id="mojInput" placeholder="tu wpisz zadanie"/>
         <button onClick={addItem} className="btn"> Dodaj</button>
 
 
